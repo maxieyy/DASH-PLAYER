@@ -1,5 +1,5 @@
 {
   "name": "stream-player",
   "compatibility_date": "2026-08-08",
-  "main": "src/worker.js"
+  "main": "src/worker-plyr.js"
 }
